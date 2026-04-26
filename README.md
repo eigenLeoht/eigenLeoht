@@ -1,4 +1,4 @@
-![banner](assets/LEOHT.gif)
+![leoht_banner](/assets/leoht_banner_logo.png)
 
 ---
 
@@ -73,4 +73,4 @@ Progress is slow, but at least it's entertaining.
 
 ---
 
-![portfolio](assets/student.png)
+![banner](assets/LEOHT.gif)
