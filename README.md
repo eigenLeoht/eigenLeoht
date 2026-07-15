@@ -1,4 +1,4 @@
-![leoht_banner](/assets/leoht_banner_logo.png)
+![banner](assets/LEOHT.gif)
 
 ---
 
@@ -70,7 +70,3 @@ print("what is happening")
 * Eventually understand what I'm doing
 
 Progress is slow, but at least it's entertaining.
-
----
-
-![banner](assets/LEOHT.gif)
