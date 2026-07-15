@@ -1,72 +1,57 @@
-![banner](assets/LEOHT.gif)
+<p align="center">
+  <img src="assets/LEOHT.gif" alt="LEOHT Banner" width="100%">
+</p>
 
 ---
 
-## Hello there 👋
+<h1 align="center">Hey, I'm Leoht.</h1>
 
-I'm **Leoht**.
-A student, developer, and professional button-pusher who occasionally turns caffeine into code.
+<p align="center">
+  <i>(LEE-oht • /ˈliː.ɒt/)</i>
+</p>
 
-Most of my time is spent:
-
-* trying to understand how things work
-* breaking them by accident
-* fixing them and pretending it was intentional
-
-So far it's working.
+<p align="center">
+  <b>I work on logic.</b><br>
+  Sometimes computers agree.
+</p>
 
 ---
 
-## What I Do
+## About
 
-* Write code that sometimes works on the first try
-* Learn random things that may or may not be useful later
-* Build small projects because curiosity refuses to shut up
+I'm interested in understanding systems from first principles.
 
-Basically I'm exploring programming one bug at a time.
+Whether it's proving a theorem, optimizing a kernel, designing distributed infrastructure, or reading ML papers for fun (questionable life choices), I'm usually trying to answer one question:
 
----
+> **"Why does this work?"**
+and.......
+> **"How do I replace AI??????"**
 
-## Current Status
-
-```
-Brain.exe running...
-Loading knowledge modules...
-Occasional system crashes detected.
-Restart recommended.
-```
 
 ---
 
-## Tools I Use
+## Current Interests
 
-Some tools I work with when they decide to cooperate:
-
-* Python
-* C++
-* JavaScript
-* Git
-* Linux
-
-And of course the most powerful debugging tool known to humanity:
-
-```
-print("what is happening")
+```text
+Core Computer Science
+Mathematics
+Physics
+AI/ML
+ML Systems
+Distributed Computing
+Electronics
+and uhhh....
+Research
 ```
 
 ---
 
-## Personal Motto
+## Elsewhere
 
-> Learn broadly. Master deeply.
-> Break things responsibly.
-
----
-
-## Future Plans
-
-* Build cooler projects
-* Learn more systems
-* Eventually understand what I'm doing
-
-Progress is slow, but at least it's entertaining.
+<p align="left">
+  <a href="">LinkedIn</a> •
+  <a href="">Codeforces</a> •
+  <a href="">LeetCode</a> •
+  <a href="">YouTube</a> •
+  <a href="">Blog</a>
+</p>
