@@ -49,9 +49,25 @@ Research
 ## Elsewhere
 
 <p align="left">
-  <a href="">LinkedIn</a> •
-  <a href="">Codeforces</a> •
-  <a href="">LeetCode</a> •
-  <a href="">YouTube</a> •
-  <a href="">Blog</a>
+  <a href="https://www.linkedin.com/in/arnav-singh-948063419/">LinkedIn</a> •
+  <a href="https://www.instagram.com/eigen.arnav/">Instagram</a> •
+  <a href="https://www.youtube.com/@eigenLeoht">YouTube</a> •
+  <a href="https://bsky.app/profile/eigenleoht.bsky.social">Bluesky</a> •
+  <a href="https://x.com/eigen_leoht">X</a> •
 </p>
+
+---
+
+## Profiles
+
+<p align="left">
+  <a href="https://codeforces.com/profile/leoht">Codeforces</a> •
+  <a href="https://leetcode.com/u/eigen_leoht/">LeetCode</a> •
+  <a href="https://www.codechef.com/users/eigen_leoht">CodeChef</a> •
+  <a href="https://atcoder.jp/users/leoht">AtCoder</a> •
+</p>
+
+
+
+
+**NOTE**: Email me for contact.
