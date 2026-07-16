@@ -49,11 +49,11 @@ Research
 ## Elsewhere
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arnav-singh-948063419/">LinkedIn</a> •
-  <a href="https://www.instagram.com/eigen.arnav/">Instagram</a> •
-  <a href="https://www.youtube.com/@eigenLeoht">YouTube</a> •
-  <a href="https://bsky.app/profile/eigenleoht.bsky.social">Bluesky</a> •
-  <a href="https://x.com/eigen_leoht">X</a> •
+  <a href="https://www.linkedin.com/in/arnav-singh-948063419/" target="_blank">LinkedIn</a> •
+  <a href="https://www.instagram.com/eigen.arnav/" target="_blank">Instagram</a> •
+  <a href="https://www.youtube.com/@eigenLeoht" target="_blank">YouTube</a> •
+  <a href="https://bsky.app/profile/eigenleoht.bsky.social" target="_blank">Bluesky</a> •
+  <a href="https://x.com/eigen_leoht" target="_blank">X</a> •
 </p>
 
 ---
@@ -61,10 +61,10 @@ Research
 ## Profiles
 
 <p align="left">
-  <a href="https://codeforces.com/profile/leoht">Codeforces</a> •
-  <a href="https://leetcode.com/u/eigen_leoht/">LeetCode</a> •
-  <a href="https://www.codechef.com/users/eigen_leoht">CodeChef</a> •
-  <a href="https://atcoder.jp/users/leoht">AtCoder</a> •
+  <a href="https://codeforces.com/profile/leoht" target="_blank">Codeforces</a> •
+  <a href="https://leetcode.com/u/eigen_leoht/" target="_blank">LeetCode</a> •
+  <a href="https://www.codechef.com/users/eigen_leoht" target="_blank">CodeChef</a> •
+  <a href="https://atcoder.jp/users/leoht" target="_blank">AtCoder</a> •
 </p>
 
 
