@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  Building systems from first principles.<br>
-  Sometimes computers agree.
+  Building a seamless lifestyle with the help of technology.<br>
+  Sometimes that lifestyle only works on my machine...
 </p>
 
 <p align="center">
@@ -18,33 +18,33 @@
   <a href="https://x.com/eigen_leoht"><img src="https://cdn.simpleicons.org/X" width="22"/></a> •
   <a href="https://www.instagram.com/eigen.leoht/"><img src="https://cdn.simpleicons.org/instagram" width="22"/></a> •
   <a href="https://www.youtube.com/@eigenLeoht"><img src="https://cdn.simpleicons.org/youtube" width="22"/></a> •
-  <a href="https://bsky.app/profile/eigenleoht.bsky.social"><img src="https://cdn.simpleicons.org/bluesky" width="22"/></a>
+  <a href="https://bsky.app/profile/eigenleoht.bsky.social"><img src="https://cdn.simpleicons.org/bluesky" width="22"/></a> •
+  <a href="https://discordapp.com/users/1521865233919119475"><img src="https://cdn.simpleicons.org/discord" width="22"/></a>
 </p>
 
 ---
 
 ## About
 
-I'm interested in understanding systems from first principles.
 
-Whether it's proving a theorem, optimizing a kernel, designing distributed infrastructure, or reading ML papers for fun *(questionable life choices)*, I'm usually asking one question.
+I'm Arnav a.k.a Leoht, and I'm interested in computers and integrating it with science and daily life.
 
-> **Why does this work?**
+Whether it's proving a theorem, optimizing a kernel, designing distributed infrastructure, or reading ML papers for fun *(questionable life choices)*, I like to do them all. 
 
 ---
 
 ## Technical Focus
 
-| Field | Focus | Progress |
+| Field | Focus | Interest |
 |:------|:------|:--------:|
-| Core Computer Science | Algorithms • Systems • Software Engineering • Theory | █████████░ |
-| Mathematics | Pure • Applied • Computational | ████████░░ |
-| Artificial Intelligence | Machine Learning • Deep Learning • Intelligent Systems | ████████░░ |
-| ML Systems | Training • Inference • Optimization • Scalability | ████████░░ |
-| Robotics | Perception • Planning • Autonomy | ███████░░░ |
-| Physics | Classical • Modern • Computational | ██████░░░░ |
+| Core Computer Science | Algorithms • Systems • Software Engineering • Theory | ██████████ |
+| Mathematics | Pure • Applied • Computational | █████████░ |
+| Artificial Intelligence | Machine Learning • Deep Learning • Intelligent Systems | █████████░ |
+| ML Systems | Training • Inference • Optimization • Scalability | █████████░ |
+| Robotics | Perception • Planning • Autonomy | ████████░░ |
+| Physics | Classical • Modern • Computational | ████████░░ |
+| Research | Scientific Computing • Experimental Design | ████████░░ |
 | Electronics | Digital Systems • Embedded Computing • Hardware | █████░░░░░ |
-| Research | Scientific Computing • Experimental Design | ███████░░░ |
 
 ---
 
@@ -75,6 +75,10 @@ Whether it's proving a theorem, optimizing a kernel, designing distributed infra
 
 <p align="center">
 
-*"Still learning."*
+*"Research-minded engineer with too many interests."* <br>
+*"Always learning."*
+
+<img width="1024" height="512" alt="einstein-quote" src="https://github.com/user-attachments/assets/f9991234-cf6f-4d6f-a2ee-6eb0cf6a7092" />
+
 
 </p>
