@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arnav-singh-948063419/"><img src="https://cdn.simpleicons.org/linkedin](https://icon-sets.iconify.design/simple-icons/linkedin/" width="22"/></a> •
+  <a href="https://www.linkedin.com/in/arnav-singh-948063419/"><img src="assets/linkedin-svgrepo-com.svg" width="22"/></a> •
   <a href="https://x.com/eigen_leoht"><img src="https://cdn.simpleicons.org/X" width="22"/></a> •
   <a href="https://www.instagram.com/eigen.leoht/"><img src="https://cdn.simpleicons.org/instagram" width="22"/></a> •
   <a href="https://www.youtube.com/@eigenLeoht"><img src="https://cdn.simpleicons.org/youtube" width="22"/></a> •
