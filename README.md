@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/LEOHT.gif" alt="LEOHT Banner" width="100%">
+  <img src="assets/banner.png" alt="LEOHT Banner" width="100%">
 </p>
 
 
