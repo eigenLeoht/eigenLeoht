@@ -57,7 +57,7 @@ Whether it's proving a theorem, optimizing a kernel, designing distributed infra
 | Question | Answer |
 |----------|--------|
 | **What are you building?** | Hopefully a future. |
-| **Favorite programming language?** | The one that just compiled. |
+| **Favorite programming language?** | Erm, English ☝️🤓. |
 | **Why so many interests?** | Curiosity scales better than boredom. |
 
 ---
