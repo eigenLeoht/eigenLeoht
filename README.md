@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner(1).png" alt="LEOHT Banner" width="100%">
-</p>
-
 <h1 align="center">Leoht</h1>
 
 <p align="center">
